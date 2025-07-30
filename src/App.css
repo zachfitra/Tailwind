@@ -8,6 +8,13 @@
   text-align: center;
 }
 
+@layer base{
+    html {
+
+    font-family: "Poppins", sans-serif;
+    }
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
